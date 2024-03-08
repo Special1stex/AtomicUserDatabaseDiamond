@@ -26,6 +26,15 @@
       "total_device": 1,
       "latest_hwid": "bd4d1eab-887b-4411-9bcc-a6dbbc3d38cf",
       "ip": "60.48.164.100"
+    },
+    {
+      "discord_id": "1019920984184201227",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "YANTO_CEKURUKUK",
+      "total_device": 1,
+      "latest_hwid": "1f6c8852-ff96-40ce-ab60-f940facae4e2",
+      "ip": "114.125.58.251"
     }
   ]
 }
