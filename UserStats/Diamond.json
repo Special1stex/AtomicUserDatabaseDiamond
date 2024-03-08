@@ -44,6 +44,15 @@
       "total_device": 1,
       "latest_hwid": "31e31848-2f1c-4015-966f-accb547968ab",
       "ip": "103.105.35.95"
+    },
+    {
+      "discord_id": "1133309373544931368",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AbangFaridzi5",
+      "total_device": 1,
+      "latest_hwid": "755365ea-83fd-4281-8bf9-a77e9e073271",
+      "ip": "114.124.163.108"
     }
   ]
 }
