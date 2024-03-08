@@ -80,6 +80,15 @@
       "total_device": 1,
       "latest_hwid": "d258210b-fe51-472f-8e35-848c1c59d531",
       "ip": "180.254.73.24"
+    },
+    {
+      "discord_id": "1029547180631011419",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Kuro5681",
+      "total_device": 1,
+      "latest_hwid": "a3a3490e-ecaf-4260-8b89-720a596ff458",
+      "ip": "182.253.57.222"
     }
   ]
 }
