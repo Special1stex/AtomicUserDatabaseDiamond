@@ -89,6 +89,15 @@
       "total_device": 1,
       "latest_hwid": "a3a3490e-ecaf-4260-8b89-720a596ff458",
       "ip": "182.253.57.222"
+    },
+    {
+      "discord_id": "1022694326926577674",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "FaeqTuru",
+      "total_device": 1,
+      "latest_hwid": "2a69737d-a222-4f38-b937-8112f86e5051",
+      "ip": "175.144.192.35"
     }
   ]
 }
