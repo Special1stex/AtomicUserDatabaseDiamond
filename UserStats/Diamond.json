@@ -71,6 +71,15 @@
       "total_device": 1,
       "latest_hwid": "078e4f09-3513-4e42-bd2c-86511b416ccb",
       "ip": "116.206.14.42"
+    },
+    {
+      "discord_id": "865880974193983489",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "sakhigondut",
+      "total_device": 1,
+      "latest_hwid": "d258210b-fe51-472f-8e35-848c1c59d531",
+      "ip": "180.254.73.24"
     }
   ]
 }
