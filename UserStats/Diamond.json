@@ -152,6 +152,15 @@
       "total_device": 1,
       "latest_hwid": "704269a7-b9c0-46d9-a857-2bfe97610105",
       "ip": "125.163.221.129"
+    },
+    {
+      "discord_id": "739891186734465114",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "fajriana",
+      "total_device": 1,
+      "latest_hwid": "39274f2f-8223-473c-ac19-914ba901821e",
+      "ip": "36.73.35.31"
     }
   ]
 }
