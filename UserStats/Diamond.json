@@ -125,6 +125,15 @@
       "total_device": 1,
       "latest_hwid": "24c2ea8b-3101-4e56-a6c5-68719d3b071f",
       "ip": "182.2.146.4"
+    },
+    {
+      "discord_id": "758272771842899999",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "robloxlovers_indo",
+      "total_device": 1,
+      "latest_hwid": "80b09538-fb0f-43b9-a19e-ef1c9802f8db",
+      "ip": "118.136.52.58"
     }
   ]
 }
