@@ -17,6 +17,15 @@
       "total_device": 1,
       "latest_hwid": "09f7b9ee-8c74-4554-909b-9893c71dc8d1",
       "ip": "36.84.147.27"
+    },
+    {
+      "discord_id": "842682288868556860",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Mr_Logop",
+      "total_device": 1,
+      "latest_hwid": "bd4d1eab-887b-4411-9bcc-a6dbbc3d38cf",
+      "ip": "60.48.164.100"
     }
   ]
 }
