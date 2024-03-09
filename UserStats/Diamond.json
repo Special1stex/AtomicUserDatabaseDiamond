@@ -440,6 +440,15 @@
       "total_device": 1,
       "latest_hwid": "95cef647-a0ff-4dba-9871-2fd14f69fc30",
       "ip": "110.137.74.70"
+    },
+    {
+      "discord_id": "1131227724653015081",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "LownYx10",
+      "total_device": 1,
+      "latest_hwid": "a2c852bf-1e54-4e49-a7f9-58a46b94c862",
+      "ip": "103.213.129.23"
     }
   ]
 }
