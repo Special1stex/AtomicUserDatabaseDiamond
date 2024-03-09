@@ -224,6 +224,15 @@
       "total_device": 1,
       "latest_hwid": "79f80cc2-251e-4a8c-9642-a1cce296fdfc",
       "ip": "125.162.247.127"
+    },
+    {
+      "discord_id": "1190227724460105808",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "CarTozer",
+      "total_device": 1,
+      "latest_hwid": "f9fb2e45-023b-4dda-9463-5bc6cdf313cf",
+      "ip": "103.119.50.90"
     }
   ]
 }
