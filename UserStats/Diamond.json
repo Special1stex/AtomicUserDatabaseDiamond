@@ -251,6 +251,15 @@
       "total_device": 1,
       "latest_hwid": "64f61571-9f71-4d8e-8292-917486cbeb8b",
       "ip": "103.3.221.214"
+    },
+    {
+      "discord_id": "996392104483893358",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "FabioCastale",
+      "total_device": 1,
+      "latest_hwid": "f0a33f43-d48a-4ddb-bd68-114768900133",
+      "ip": "114.79.23.183"
     }
   ]
 }
