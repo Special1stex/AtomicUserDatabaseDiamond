@@ -467,6 +467,15 @@
       "total_device": 1,
       "latest_hwid": "f9d10a15-ab93-4a7e-ace7-fe2379bc1fee",
       "ip": "36.85.146.160"
+    },
+    {
+      "discord_id": "880967186271850566",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "satria36",
+      "total_device": 1,
+      "latest_hwid": "f743bb8d-92ae-45df-99ef-383138532f86",
+      "ip": "103.84.6.84"
     }
   ]
 }
