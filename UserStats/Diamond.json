@@ -368,6 +368,15 @@
       "total_device": 1,
       "latest_hwid": "7ba50d74-6863-4c3a-af9d-1725ead16fc4",
       "ip": "182.253.250.140"
+    },
+    {
+      "discord_id": "730780819198836847",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "XXTAFRIHY",
+      "total_device": 1,
+      "latest_hwid": "62f8fcca-152d-4716-bfbf-cb29637c8602",
+      "ip": "180.245.179.61"
     }
   ]
 }
