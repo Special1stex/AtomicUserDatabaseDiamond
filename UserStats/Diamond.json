@@ -332,6 +332,15 @@
       "total_device": 1,
       "latest_hwid": "102abb0d-1f40-41ec-90d0-0858d71da813",
       "ip": "103.171.163.148"
+    },
+    {
+      "discord_id": "462538203111358476",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "dikayaumil",
+      "total_device": 1,
+      "latest_hwid": "a88c6af9-4c38-4058-815d-6f5c6764e76c",
+      "ip": "139.228.40.62"
     }
   ]
 }
