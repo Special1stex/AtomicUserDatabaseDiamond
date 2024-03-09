@@ -188,6 +188,15 @@
       "total_device": 1,
       "latest_hwid": "db5982ee-da9a-4e55-b094-02608eb02963",
       "ip": "110.137.103.144"
+    },
+    {
+      "discord_id": "314048167832190978",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "brabus2901",
+      "total_device": 1,
+      "latest_hwid": "bc45f804-5c2e-4380-9324-0b97eed10fe6",
+      "ip": "180.252.168.207"
     }
   ]
 }
