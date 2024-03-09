@@ -548,6 +548,15 @@
       "total_device": 1,
       "latest_hwid": "8841730f-0e03-4932-9843-17ada987f7b5",
       "ip": "125.160.16.178"
+    },
+    {
+      "discord_id": "1188752952597413918",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BiqGuys",
+      "total_device": 1,
+      "latest_hwid": "9c6bae0b-974d-47be-aac1-5d8e03abfb13",
+      "ip": "118.99.125.3"
     }
   ]
 }
