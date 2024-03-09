@@ -323,6 +323,15 @@
       "total_device": 1,
       "latest_hwid": "3d0cb907-8cb5-437a-86ac-129a813d04d9",
       "ip": "103.87.230.20"
+    },
+    {
+      "discord_id": "757120747075272774",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "goldblock_idk",
+      "total_device": 1,
+      "latest_hwid": "102abb0d-1f40-41ec-90d0-0858d71da813",
+      "ip": "103.171.163.148"
     }
   ]
 }
