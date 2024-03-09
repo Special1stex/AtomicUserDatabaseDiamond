@@ -341,6 +341,15 @@
       "total_device": 1,
       "latest_hwid": "a88c6af9-4c38-4058-815d-6f5c6764e76c",
       "ip": "139.228.40.62"
+    },
+    {
+      "discord_id": "733981438189371392",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ZaWarudoGoMudaMuda",
+      "total_device": 1,
+      "latest_hwid": "fb93300a-430b-4f94-9ec8-e9b8bb96dd1c",
+      "ip": "125.164.176.101"
     }
   ]
 }
