@@ -566,6 +566,15 @@
       "total_device": 1,
       "latest_hwid": "2a522b6a-98eb-4a0a-b756-552709d317f8",
       "ip": "92.229.61.133"
+    },
+    {
+      "discord_id": "884260281528750150",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "leafvalid39",
+      "total_device": 1,
+      "latest_hwid": "82ff1c85-8f55-4496-aab2-4cfcf145e380",
+      "ip": "118.137.101.29"
     }
   ]
 }
