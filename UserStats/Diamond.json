@@ -485,6 +485,15 @@
       "total_device": 1,
       "latest_hwid": "e002f22f-b05a-4f7a-bc87-9481ecd469a6",
       "ip": "125.166.3.37"
+    },
+    {
+      "discord_id": "695276325119983687",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "RGXA41",
+      "total_device": 1,
+      "latest_hwid": "535d984c-9f23-4277-9914-c9d4a7d203ed",
+      "ip": "125.164.22.196"
     }
   ]
 }
