@@ -638,6 +638,15 @@
       "total_device": 1,
       "latest_hwid": "8fc4039e-57ac-49b6-9b00-807933fb1f75",
       "ip": "180.243.1.85"
+    },
+    {
+      "discord_id": "1089053067783188542",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Nicholasgbtegar",
+      "total_device": 1,
+      "latest_hwid": "d56c08ee-c169-43f1-9ed6-3d6cb50b9ac5",
+      "ip": "182.3.39.196"
     }
   ]
 }
