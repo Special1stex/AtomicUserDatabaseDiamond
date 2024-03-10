@@ -722,10 +722,10 @@
     },
     {
       "discord_id": "833324720904339516",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 4,
       "latest_execution_account": "ecst444",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "90c5742a-74bf-4bc8-bcdf-a9da3b580ca9",
       "ip": "114.124.193.41"
     },
