@@ -944,6 +944,15 @@
       "total_device": 1,
       "latest_hwid": "42e1230f-ef30-4864-89bb-87c769afa33a",
       "ip": "110.138.94.72"
+    },
+    {
+      "discord_id": "776693465056149544",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "DielEX_MNX",
+      "total_device": 1,
+      "latest_hwid": "85c2553b-9286-43bb-908e-dc0c366c6b59",
+      "ip": "180.242.192.20"
     }
   ]
 }
