@@ -809,6 +809,15 @@
       "total_device": 1,
       "latest_hwid": "1fff7e41-7706-4650-b9e0-652b10b4c1a1",
       "ip": "114.10.71.232"
+    },
+    {
+      "discord_id": "793328308221509634",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Roobiin7473",
+      "total_device": 1,
+      "latest_hwid": "df01f57c-8c3f-4202-985c-194f81172e4f",
+      "ip": "140.213.47.26"
     }
   ]
 }
