@@ -656,6 +656,15 @@
       "total_device": 1,
       "latest_hwid": "94a702a1-70ee-4c5f-91a5-b542175504a1",
       "ip": "114.10.18.254"
+    },
+    {
+      "discord_id": "1013377083206017024",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Hylezzzz",
+      "total_device": 1,
+      "latest_hwid": "7736b61a-7d9d-4d80-a4dc-ece5dbded626",
+      "ip": "103.190.47.27"
     }
   ]
 }
