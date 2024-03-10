@@ -755,6 +755,15 @@
       "total_device": 1,
       "latest_hwid": "486144e3-94f2-48e6-b5c6-68ab36c9f48a",
       "ip": "36.85.108.56"
+    },
+    {
+      "discord_id": "1024090936705302599",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "vantagesgurl",
+      "total_device": 1,
+      "latest_hwid": "dd6a3547-3379-4f20-a136-4e17a0ff0a9d",
+      "ip": "180.243.249.179"
     }
   ]
 }
