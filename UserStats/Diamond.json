@@ -728,6 +728,15 @@
       "total_device": 1,
       "latest_hwid": "3878e5a1-3003-4b98-9736-92d2cd32ef6a",
       "ip": "124.243.152.101"
+    },
+    {
+      "discord_id": "874611944802377748",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Craft_Rx",
+      "total_device": 1,
+      "latest_hwid": "7797639b-0b03-42a5-898f-17822c003867",
+      "ip": "182.3.43.219"
     }
   ]
 }
