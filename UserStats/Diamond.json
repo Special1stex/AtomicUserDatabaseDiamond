@@ -710,6 +710,15 @@
       "total_device": 1,
       "latest_hwid": "4106f7b5-7f68-4ad9-862b-6d93794b0e30",
       "ip": "104.28.245.127"
+    },
+    {
+      "discord_id": "553178878424776716",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "BryanFarell",
+      "total_device": 1,
+      "latest_hwid": "40102f81-9193-457d-9ef5-fa67cba8c970",
+      "ip": "180.252.120.11"
     }
   ]
 }
