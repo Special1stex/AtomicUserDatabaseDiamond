@@ -953,6 +953,15 @@
       "total_device": 1,
       "latest_hwid": "85c2553b-9286-43bb-908e-dc0c366c6b59",
       "ip": "180.242.192.20"
+    },
+    {
+      "discord_id": "1106852638223507536",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "SkrippiPapa",
+      "total_device": 1,
+      "latest_hwid": "ae64ce04-4438-43cb-b144-1794cf5e948f",
+      "ip": "149.110.11.132"
     }
   ]
 }
