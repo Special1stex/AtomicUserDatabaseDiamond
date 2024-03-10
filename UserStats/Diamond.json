@@ -674,6 +674,15 @@
       "total_device": 1,
       "latest_hwid": "21ab5a37-3278-43de-84f0-33ea6143e864",
       "ip": "103.136.57.163"
+    },
+    {
+      "discord_id": "1004795188679544932",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "zuii_senvai",
+      "total_device": 1,
+      "latest_hwid": "e2fe1452-f757-459f-8720-1ccdcd610eb9",
+      "ip": "180.245.195.14"
     }
   ]
 }
