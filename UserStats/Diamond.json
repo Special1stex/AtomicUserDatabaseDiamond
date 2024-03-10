@@ -803,12 +803,12 @@
     },
     {
       "discord_id": "422288051277004801",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 1,
       "latest_execution_account": "ZACK18052008",
-      "total_device": 2,
-      "latest_hwid": "1fff7e41-7706-4650-b9e0-652b10b4c1a1",
-      "ip": "103.125.43.4"
+      "total_device": 3,
+      "latest_hwid": "adfadf53-8982-4935-a2c6-f7474d0b4f43",
+      "ip": "103.125.43.27"
     },
     {
       "discord_id": "793328308221509634",
