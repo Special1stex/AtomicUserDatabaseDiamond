@@ -908,6 +908,15 @@
       "total_device": 1,
       "latest_hwid": "b8f995fd-5375-4d14-8970-cd3dbcfd2fd9",
       "ip": "103.208.205.166"
+    },
+    {
+      "discord_id": "709524403783729242",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Arifelmon",
+      "total_device": 1,
+      "latest_hwid": "76902b8a-3c3a-423d-9f4a-d8e8cdccb993",
+      "ip": "125.167.58.119"
     }
   ]
 }
