@@ -836,6 +836,15 @@
       "total_device": 1,
       "latest_hwid": "382d939f-d822-4a5b-840a-4d32bbf8eed9",
       "ip": "180.242.69.44"
+    },
+    {
+      "discord_id": "1118083197666869299",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "naufalgamingpro134",
+      "total_device": 1,
+      "latest_hwid": "e4b89515-cb9f-4563-8e75-116429bf4c5a",
+      "ip": "125.164.21.235"
     }
   ]
 }
