@@ -1187,6 +1187,15 @@
       "total_device": 1,
       "latest_hwid": "a84cbba9-43ed-483c-acef-526b8cfb9508",
       "ip": "139.195.192.218"
+    },
+    {
+      "discord_id": "711809136760848476",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "rexpurpleee",
+      "total_device": 1,
+      "latest_hwid": "c90df984-d129-4ad1-b8c2-bf0639cd416e",
+      "ip": "149.108.189.33"
     }
   ]
 }
