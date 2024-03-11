@@ -1034,6 +1034,15 @@
       "total_device": 1,
       "latest_hwid": "3626110c-c06d-46e4-a90e-9671929b3b07",
       "ip": "123.253.232.205"
+    },
+    {
+      "discord_id": "647348110250475561",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "alifRAMA123",
+      "total_device": 1,
+      "latest_hwid": "a995ff0a-d949-41f0-8793-4fc3ae6a64d3",
+      "ip": "125.165.140.31"
     }
   ]
 }
