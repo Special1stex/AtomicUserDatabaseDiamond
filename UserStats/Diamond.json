@@ -1043,6 +1043,15 @@
       "total_device": 1,
       "latest_hwid": "a995ff0a-d949-41f0-8793-4fc3ae6a64d3",
       "ip": "125.165.140.31"
+    },
+    {
+      "discord_id": "1159815016225181788",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "CIVICTRBO3",
+      "total_device": 1,
+      "latest_hwid": "ea27766a-1589-4186-b5f5-fc0a9c55fa3d",
+      "ip": "104.28.204.79"
     }
   ]
 }
