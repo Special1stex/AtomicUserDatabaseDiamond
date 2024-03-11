@@ -1115,6 +1115,15 @@
       "total_device": 1,
       "latest_hwid": "4e0fb957-a3d4-4598-b5f9-870604d480cd",
       "ip": "125.164.17.182"
+    },
+    {
+      "discord_id": "994789950694375506",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "AREO121244",
+      "total_device": 1,
+      "latest_hwid": "0c778acf-c864-442e-aa4e-53bc805d75f3",
+      "ip": "180.248.13.189"
     }
   ]
 }
