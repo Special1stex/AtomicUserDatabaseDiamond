@@ -155,12 +155,12 @@
     },
     {
       "discord_id": "739891186734465114",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "fajriana",
-      "total_device": 1,
-      "latest_hwid": "39274f2f-8223-473c-ac19-914ba901821e",
-      "ip": "36.73.35.31"
+      "total_device": 2,
+      "latest_hwid": "ef72ffe4-543b-4093-b895-cee004ec40d3",
+      "ip": "36.73.32.136"
     },
     {
       "discord_id": "1147775059193241610",
