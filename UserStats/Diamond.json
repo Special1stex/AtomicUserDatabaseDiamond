@@ -1055,12 +1055,12 @@
     },
     {
       "discord_id": "997826443876769863",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "DanZDont",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "b03ab190-4871-449e-ade9-5d85971eb8c6",
-      "ip": "158.140.171.8"
+      "ip": "158.140.171.121"
     }
   ]
 }
