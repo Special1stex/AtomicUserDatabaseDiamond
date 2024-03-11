@@ -1097,6 +1097,15 @@
       "total_device": 1,
       "latest_hwid": "8884b0ef-6533-41c9-ad36-801940aab09b",
       "ip": "125.160.225.142"
+    },
+    {
+      "discord_id": "900399358439219221",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Bastian_Beatricio",
+      "total_device": 1,
+      "latest_hwid": "c9ed4c60-e064-40c0-8a7e-5df022082c1c",
+      "ip": "36.68.10.157"
     }
   ]
 }
