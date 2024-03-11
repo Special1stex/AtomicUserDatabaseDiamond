@@ -461,10 +461,10 @@
     },
     {
       "discord_id": "898807141127847936",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 2,
       "latest_execution_account": "callin_2y",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "f9d10a15-ab93-4a7e-ace7-fe2379bc1fee",
       "ip": "103.154.110.251"
     },
