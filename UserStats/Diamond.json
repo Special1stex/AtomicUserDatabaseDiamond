@@ -1142,6 +1142,15 @@
       "total_device": 1,
       "latest_hwid": "a6ac0766-47d0-4637-abb6-7cb631611c02",
       "ip": "140.213.7.230"
+    },
+    {
+      "discord_id": "652129821908008973",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Just_for44fun",
+      "total_device": 1,
+      "latest_hwid": "5c33a09e-22a5-4348-8ce2-825660e8ac16",
+      "ip": "125.163.242.14"
     }
   ]
 }
