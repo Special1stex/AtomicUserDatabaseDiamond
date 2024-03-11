@@ -1178,6 +1178,15 @@
       "total_device": 1,
       "latest_hwid": "efbae715-fffe-4891-b312-79f75ad763d7",
       "ip": "140.0.17.20"
+    },
+    {
+      "discord_id": "1157934245499654205",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "MOCizzatG",
+      "total_device": 1,
+      "latest_hwid": "a84cbba9-43ed-483c-acef-526b8cfb9508",
+      "ip": "139.195.192.218"
     }
   ]
 }
