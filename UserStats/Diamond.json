@@ -785,12 +785,12 @@
     },
     {
       "discord_id": "518327544919883776",
-      "total_execution": 24,
+      "total_execution": 25,
       "total_account": 1,
       "latest_execution_account": "donuserealll",
-      "total_device": 2,
-      "latest_hwid": "cf885d3c-0979-48cc-8409-d165dbcfa304",
-      "ip": "114.10.101.39"
+      "total_device": 3,
+      "latest_hwid": "a4d529ab-7f0a-48fd-9153-7335e0fb865b",
+      "ip": "114.10.101.23"
     },
     {
       "discord_id": "1137377890409906317",
