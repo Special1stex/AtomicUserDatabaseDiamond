@@ -506,12 +506,12 @@
     },
     {
       "discord_id": "1215220824705863700",
-      "total_execution": 8,
+      "total_execution": 9,
       "total_account": 1,
       "latest_execution_account": "Aqlan23",
-      "total_device": 1,
-      "latest_hwid": "8ff50728-f87c-42f1-a2de-e08ccf67cc3a",
-      "ip": "36.68.217.151"
+      "total_device": 2,
+      "latest_hwid": "018f8180-805a-41fd-8991-2d755c8b693e",
+      "ip": "36.82.85.131"
     },
     {
       "discord_id": "1068716733470359584",
