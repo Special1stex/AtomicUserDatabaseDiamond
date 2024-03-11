@@ -1214,6 +1214,15 @@
       "total_device": 1,
       "latest_hwid": "8a93dcb8-17ae-4d74-9b47-d8bf7fad3a80",
       "ip": "110.139.12.197"
+    },
+    {
+      "discord_id": "1205067304673484870",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Temanbrewok",
+      "total_device": 1,
+      "latest_hwid": "cf9533b6-0eb6-4fef-b866-3b97ead3e4bf",
+      "ip": "103.121.18.105"
     }
   ]
 }
