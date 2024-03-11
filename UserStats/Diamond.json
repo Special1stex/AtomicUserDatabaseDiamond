@@ -1061,6 +1061,15 @@
       "total_device": 1,
       "latest_hwid": "b03ab190-4871-449e-ade9-5d85971eb8c6",
       "ip": "158.140.171.121"
+    },
+    {
+      "discord_id": "1205003689325232201",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "999kenzo999",
+      "total_device": 1,
+      "latest_hwid": "0556b85c-0034-4b87-bb13-cbc5fb8c4977",
+      "ip": "139.195.190.197"
     }
   ]
 }
