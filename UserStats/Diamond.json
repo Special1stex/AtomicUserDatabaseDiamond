@@ -902,10 +902,10 @@
     },
     {
       "discord_id": "720467771770535956",
-      "total_execution": 16,
+      "total_execution": 17,
       "total_account": 1,
       "latest_execution_account": "reloderui",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "8f2e64bf-977d-46f5-ba52-72ea97d30220",
       "ip": "103.208.205.155"
     },
