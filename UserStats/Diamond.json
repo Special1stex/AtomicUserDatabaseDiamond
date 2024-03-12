@@ -1010,12 +1010,12 @@
     },
     {
       "discord_id": "320551435576279040",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "SkylineJPN",
-      "total_device": 5,
-      "latest_hwid": "485f2228-da57-4ea6-a425-c565b7d11649",
-      "ip": "140.213.114.106"
+      "total_device": 6,
+      "latest_hwid": "df4684c8-296b-45ac-8e45-9d1987d13818",
+      "ip": "140.213.114.17"
     },
     {
       "discord_id": "754601061469257810",
