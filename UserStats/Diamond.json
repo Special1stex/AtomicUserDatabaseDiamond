@@ -479,10 +479,10 @@
     },
     {
       "discord_id": "863635169021919252",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "BRAHMASILA",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "e002f22f-b05a-4f7a-bc87-9481ecd469a6",
       "ip": "125.164.183.252"
     },
