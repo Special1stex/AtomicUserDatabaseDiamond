@@ -1295,6 +1295,15 @@
       "total_device": 1,
       "latest_hwid": "f405a140-acee-403a-89cd-9d713e688abf",
       "ip": "36.85.34.69"
+    },
+    {
+      "discord_id": "1125239342072348782",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Haidar98p",
+      "total_device": 1,
+      "latest_hwid": "7e052131-0e6a-4dbf-aab5-3c2e3cfb1011",
+      "ip": "125.164.21.168"
     }
   ]
 }
