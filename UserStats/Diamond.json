@@ -1046,12 +1046,12 @@
     },
     {
       "discord_id": "1159815016225181788",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "CIVICTRBO3",
-      "total_device": 1,
-      "latest_hwid": "b72b2eb7-7ae4-4def-8c10-dc8436e5699c",
-      "ip": "104.28.236.79"
+      "total_device": 2,
+      "latest_hwid": "0b85b0d9-a0f5-4b2f-b481-19eee10e5e78",
+      "ip": "180.243.138.197"
     },
     {
       "discord_id": "997826443876769863",
