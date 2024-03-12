@@ -902,12 +902,12 @@
     },
     {
       "discord_id": "720467771770535956",
-      "total_execution": 15,
+      "total_execution": 16,
       "total_account": 1,
       "latest_execution_account": "reloderui",
-      "total_device": 1,
-      "latest_hwid": "4ca0d174-40f7-43d6-8841-4aac1d33e6ef",
-      "ip": "103.208.205.166"
+      "total_device": 2,
+      "latest_hwid": "8f2e64bf-977d-46f5-ba52-72ea97d30220",
+      "ip": "103.208.205.155"
     },
     {
       "discord_id": "709524403783729242",
