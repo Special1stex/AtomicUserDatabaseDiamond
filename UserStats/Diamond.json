@@ -731,7 +731,7 @@
     },
     {
       "discord_id": "874611944802377748",
-      "total_execution": 18,
+      "total_execution": 19,
       "total_account": 1,
       "latest_execution_account": "Craft_Rx",
       "total_device": 1,
@@ -1208,11 +1208,11 @@
     },
     {
       "discord_id": "878994549240905728",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "bach_xx",
       "total_device": 1,
-      "latest_hwid": "8a93dcb8-17ae-4d74-9b47-d8bf7fad3a80",
+      "latest_hwid": "d4cc9c4a-efa9-48ea-b805-77a82e4ed49c",
       "ip": "110.139.12.197"
     },
     {
