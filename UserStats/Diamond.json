@@ -1286,6 +1286,15 @@
       "total_device": 1,
       "latest_hwid": "4e5d13f4-5bac-4761-8522-0be167bd07fa",
       "ip": "149.113.75.47"
+    },
+    {
+      "discord_id": "933591731688046592",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "hamidan_kun",
+      "total_device": 1,
+      "latest_hwid": "f405a140-acee-403a-89cd-9d713e688abf",
+      "ip": "36.85.34.69"
     }
   ]
 }
