@@ -1259,6 +1259,15 @@
       "total_device": 1,
       "latest_hwid": "9866c236-9b30-4cef-981b-af16d7e35e51",
       "ip": "180.252.86.71"
+    },
+    {
+      "discord_id": "1124574300180074578",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "TUXTUSXT",
+      "total_device": 1,
+      "latest_hwid": "9ec58a38-3ada-4492-8b54-2516e9b9df36",
+      "ip": "103.255.156.28"
     }
   ]
 }
