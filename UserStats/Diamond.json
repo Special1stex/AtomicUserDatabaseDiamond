@@ -1232,6 +1232,15 @@
       "total_device": 1,
       "latest_hwid": "f7ff0186-68b4-4dc5-a4cb-1dbd8c47e9a5",
       "ip": "180.252.57.13"
+    },
+    {
+      "discord_id": "737607989258879008",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "jambrot13",
+      "total_device": 1,
+      "latest_hwid": "8d9966cb-a0e0-4a0d-bccb-85203e53632e",
+      "ip": "180.244.161.171"
     }
   ]
 }
