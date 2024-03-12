@@ -515,12 +515,12 @@
     },
     {
       "discord_id": "1068716733470359584",
-      "total_execution": 18,
+      "total_execution": 19,
       "total_account": 1,
       "latest_execution_account": "BOTAKKINCLING",
-      "total_device": 1,
-      "latest_hwid": "95e2a6ce-648a-4107-b2e0-6de2796d330e",
-      "ip": "202.145.6.0"
+      "total_device": 2,
+      "latest_hwid": "ec4c3be4-8eea-4b9c-97c0-80d943ff2606",
+      "ip": "202.145.6.62"
     },
     {
       "discord_id": "1033421227840241714",
