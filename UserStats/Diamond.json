@@ -1322,6 +1322,15 @@
       "total_device": 1,
       "latest_hwid": "1ef844c7-4fa8-43d7-8793-2bd68614d936",
       "ip": "103.3.220.210"
+    },
+    {
+      "discord_id": "584804262366806033",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "ynthn",
+      "total_device": 1,
+      "latest_hwid": "a1ec683c-83e2-4b08-ac39-0d90f2c00291",
+      "ip": "180.244.67.239"
     }
   ]
 }
