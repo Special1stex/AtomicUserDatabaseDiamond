@@ -434,12 +434,12 @@
     },
     {
       "discord_id": "692619347340034059",
-      "total_execution": 14,
+      "total_execution": 15,
       "total_account": 1,
       "latest_execution_account": "xMePis",
-      "total_device": 1,
-      "latest_hwid": "34896f88-8577-40bf-ab96-f4ad90379627",
-      "ip": "110.137.74.9"
+      "total_device": 2,
+      "latest_hwid": "3e796bb2-46be-4891-80da-bf4939828933",
+      "ip": "110.137.72.178"
     },
     {
       "discord_id": "1131227724653015081",
