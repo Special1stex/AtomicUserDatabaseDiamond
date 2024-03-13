@@ -830,12 +830,12 @@
     },
     {
       "discord_id": "890851290618417152",
-      "total_execution": 24,
+      "total_execution": 25,
       "total_account": 1,
       "latest_execution_account": "raymondhalimin",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "199930ea-f300-40ab-b1f8-5f298e970600",
-      "ip": "180.242.69.44"
+      "ip": "180.242.69.64"
     },
     {
       "discord_id": "1118083197666869299",
