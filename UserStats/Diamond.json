@@ -1430,6 +1430,15 @@
       "total_device": 1,
       "latest_hwid": "848e2136-a970-4b9d-86ce-bcde60cd596c",
       "ip": "103.156.118.3"
+    },
+    {
+      "discord_id": "761797269698904106",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "satriogarox",
+      "total_device": 1,
+      "latest_hwid": "f25398e9-9ba7-4bdb-a4ff-cb2940c2f13e",
+      "ip": "36.72.212.92"
     }
   ]
 }
