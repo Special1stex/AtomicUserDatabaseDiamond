@@ -173,12 +173,12 @@
     },
     {
       "discord_id": "1008237839756046366",
-      "total_execution": 32,
+      "total_execution": 33,
       "total_account": 1,
       "latest_execution_account": "unvertism",
-      "total_device": 2,
-      "latest_hwid": "30adb554-675a-4f62-9592-104d32c2ac2d",
-      "ip": "114.10.23.28"
+      "total_device": 3,
+      "latest_hwid": "f41b308c-6977-455a-9bc0-091fac7c4e0b",
+      "ip": "103.47.132.32"
     },
     {
       "discord_id": "1215231896074854411",
