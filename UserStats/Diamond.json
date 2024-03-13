@@ -1412,6 +1412,15 @@
       "total_device": 1,
       "latest_hwid": "75b4d874-5a3b-4809-8508-a3d2795b0c09",
       "ip": "180.246.214.153"
+    },
+    {
+      "discord_id": "927521129680232449",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "KENZZ_JAGOO",
+      "total_device": 1,
+      "latest_hwid": "e88008f4-74a7-4002-a4c1-1275c481f561",
+      "ip": "202.80.218.221"
     }
   ]
 }
