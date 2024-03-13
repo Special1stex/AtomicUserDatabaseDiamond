@@ -1217,12 +1217,12 @@
     },
     {
       "discord_id": "1205067304673484870",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "Temanbrewok",
-      "total_device": 1,
-      "latest_hwid": "cf9533b6-0eb6-4fef-b866-3b97ead3e4bf",
-      "ip": "103.121.18.105"
+      "total_device": 2,
+      "latest_hwid": "d284a8e1-c4a6-48db-bd80-97a15d2be032",
+      "ip": "103.121.18.9"
     },
     {
       "discord_id": "824466647842684938",
