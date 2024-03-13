@@ -1442,12 +1442,12 @@
     },
     {
       "discord_id": "496742460819505162",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "Wnsted",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "8899ba3e-b586-4aa8-9c2d-a0c75c492f81",
-      "ip": "41.80.113.198"
+      "ip": "41.80.114.28"
     },
     {
       "discord_id": "605709080547557376",
