@@ -470,12 +470,12 @@
     },
     {
       "discord_id": "880967186271850566",
-      "total_execution": 32,
+      "total_execution": 33,
       "total_account": 2,
       "latest_execution_account": "vbmoshx",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "44f22e32-989a-4301-955a-b97d5726e514",
-      "ip": "101.128.102.7"
+      "ip": "101.128.102.10"
     },
     {
       "discord_id": "863635169021919252",
