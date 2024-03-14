@@ -1484,6 +1484,15 @@
       "total_device": 1,
       "latest_hwid": "7ac7f5c1-028a-4e09-a142-16766dc19f8d",
       "ip": "103.3.222.38"
+    },
+    {
+      "discord_id": "556313102103347201",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "tayamakak",
+      "total_device": 1,
+      "latest_hwid": "20b856c7-4007-495d-a09e-2377ce2e5973",
+      "ip": "158.140.175.144"
     }
   ]
 }
