@@ -1208,12 +1208,12 @@
     },
     {
       "discord_id": "878994549240905728",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "bach_xx",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "d4cc9c4a-efa9-48ea-b805-77a82e4ed49c",
-      "ip": "110.139.12.197"
+      "ip": "125.164.10.174"
     },
     {
       "discord_id": "1205067304673484870",
