@@ -1298,12 +1298,12 @@
     },
     {
       "discord_id": "1125239342072348782",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "Haidar98p",
-      "total_device": 1,
-      "latest_hwid": "7e052131-0e6a-4dbf-aab5-3c2e3cfb1011",
-      "ip": "125.164.21.168"
+      "total_device": 2,
+      "latest_hwid": "23eb7cb8-e45f-462d-9f4b-f82febf7a2d7",
+      "ip": "125.164.23.114"
     },
     {
       "discord_id": "753903800179359820",
