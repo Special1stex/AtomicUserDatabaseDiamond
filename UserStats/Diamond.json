@@ -614,12 +614,12 @@
     },
     {
       "discord_id": "1076875504923197500",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 1,
       "latest_execution_account": "Kanjosells",
-      "total_device": 1,
-      "latest_hwid": "b1f0e205-6459-400a-a913-9bbf6e7d200b",
-      "ip": "202.145.5.204"
+      "total_device": 2,
+      "latest_hwid": "91772d6f-2bfb-4c3a-9fe7-169cd00bcfe2",
+      "ip": "202.145.5.194"
     },
     {
       "discord_id": "796226241396736020",
