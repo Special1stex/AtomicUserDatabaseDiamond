@@ -1550,11 +1550,11 @@
     },
     {
       "discord_id": "761892431200911430",
-      "total_execution": 2,
+      "total_execution": 3,
       "total_account": 1,
       "latest_execution_account": "ATTA345Y",
       "total_device": 1,
-      "latest_hwid": "d8b5651d-78a0-40b0-a739-14a70c01ee46",
+      "latest_hwid": "a53af475-812d-437c-b629-dd7df228dce5",
       "ip": "175.158.36.136"
     }
   ]
