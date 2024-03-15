@@ -263,10 +263,10 @@
     },
     {
       "discord_id": "815096888109039717",
-      "total_execution": 20,
+      "total_execution": 21,
       "total_account": 2,
       "latest_execution_account": "098mfs",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "5a36be55-1631-42dc-8b5d-331d76fec1d3",
       "ip": "103.136.58.142"
     },
