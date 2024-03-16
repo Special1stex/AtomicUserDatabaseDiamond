@@ -1601,6 +1601,15 @@
       "total_device": 1,
       "latest_hwid": "dfc8715d-c6e1-4eb4-8605-073b82c88d81",
       "ip": "125.164.98.166"
+    },
+    {
+      "discord_id": "1040576307605544991",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "NemeSyZ_9L",
+      "total_device": 1,
+      "latest_hwid": "8ff685ba-82ed-435c-a662-8e0fb2c68437",
+      "ip": "125.164.20.23"
     }
   ]
 }
