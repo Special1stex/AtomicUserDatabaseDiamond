@@ -947,12 +947,12 @@
     },
     {
       "discord_id": "776693465056149544",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "DielEX_MNX",
-      "total_device": 1,
-      "latest_hwid": "85c2553b-9286-43bb-908e-dc0c366c6b59",
-      "ip": "180.242.192.20"
+      "total_device": 2,
+      "latest_hwid": "21c2a622-c182-480c-9ee6-a47c76e92d5c",
+      "ip": "180.242.197.64"
     },
     {
       "discord_id": "1106852638223507536",
