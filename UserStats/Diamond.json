@@ -542,12 +542,12 @@
     },
     {
       "discord_id": "822827931398176779",
-      "total_execution": 6,
+      "total_execution": 7,
       "total_account": 1,
       "latest_execution_account": "TSRYDGJVH",
-      "total_device": 1,
-      "latest_hwid": "3e13f316-c07b-468d-b07b-0dacaa05732d",
-      "ip": "118.99.95.251"
+      "total_device": 2,
+      "latest_hwid": "d95ac7dd-7a47-4b06-a40c-e7dc19d7fd87",
+      "ip": "180.241.4.50"
     },
     {
       "discord_id": "1188752952597413918",
