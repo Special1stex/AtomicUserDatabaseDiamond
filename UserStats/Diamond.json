@@ -1619,6 +1619,15 @@
       "total_device": 2,
       "latest_hwid": "3d450ae9-d681-44b6-9aa9-fc6d3ff7a0cf",
       "ip": "223.255.225.78"
+    },
+    {
+      "discord_id": "1161584953411252316",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "Narvan7000",
+      "total_device": 1,
+      "latest_hwid": "158103f7-03d1-4192-b7fd-18891dbc1977",
+      "ip": "180.244.166.132"
     }
   ]
 }
