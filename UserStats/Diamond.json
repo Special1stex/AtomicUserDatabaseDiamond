@@ -1595,10 +1595,10 @@
     },
     {
       "discord_id": "1216583167121690716",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 2,
       "latest_execution_account": "LexusJtr",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "d1fa6957-2521-449a-96a9-13b095f5655d",
       "ip": "114.122.196.163"
     },
