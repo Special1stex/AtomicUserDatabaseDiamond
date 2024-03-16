@@ -1637,6 +1637,15 @@
       "total_device": 1,
       "latest_hwid": "1d62281a-0e53-4905-87fb-c2842c5c7d4d",
       "ip": "125.166.93.125"
+    },
+    {
+      "discord_id": "1141668131413180526",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "delboir",
+      "total_device": 1,
+      "latest_hwid": "12eb8508-3be1-4fa2-865c-b0b0449f9e08",
+      "ip": "180.254.69.13"
     }
   ]
 }
