@@ -641,10 +641,10 @@
     },
     {
       "discord_id": "1089053067783188542",
-      "total_execution": 10,
+      "total_execution": 11,
       "total_account": 2,
       "latest_execution_account": "ZANS2107",
-      "total_device": 3,
+      "total_device": 1,
       "latest_hwid": "70405ebb-be10-40cf-a195-c4b06f301b64",
       "ip": "59.153.83.219"
     },
