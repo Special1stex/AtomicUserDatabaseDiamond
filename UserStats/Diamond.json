@@ -1592,6 +1592,15 @@
       "total_device": 1,
       "latest_hwid": "71270623-8d8b-4b64-9b1b-916958434d70",
       "ip": "186.226.253.174"
+    },
+    {
+      "discord_id": "1216583167121690716",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "RafaelPratamaPKY",
+      "total_device": 1,
+      "latest_hwid": "dfc8715d-c6e1-4eb4-8605-073b82c88d81",
+      "ip": "125.164.98.166"
     }
   ]
 }
