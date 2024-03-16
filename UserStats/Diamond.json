@@ -974,10 +974,10 @@
     },
     {
       "discord_id": "1168546859913056266",
-      "total_execution": 22,
+      "total_execution": 23,
       "total_account": 2,
       "latest_execution_account": "AlamSokAlim",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "6754f5b8-a221-4683-a2d1-aebb404124bb",
       "ip": "139.192.168.11"
     },
