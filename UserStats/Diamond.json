@@ -1262,10 +1262,10 @@
     },
     {
       "discord_id": "1124574300180074578",
-      "total_execution": 14,
+      "total_execution": 15,
       "total_account": 2,
       "latest_execution_account": "xrcwithn",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "9ec58a38-3ada-4492-8b54-2516e9b9df36",
       "ip": "103.28.116.46"
     },
