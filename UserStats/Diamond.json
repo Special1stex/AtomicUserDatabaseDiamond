@@ -1703,12 +1703,12 @@
     },
     {
       "discord_id": "805420102409256991",
-      "total_execution": 5,
+      "total_execution": 6,
       "total_account": 1,
       "latest_execution_account": "N4NDOSH",
-      "total_device": 2,
+      "total_device": 3,
       "latest_hwid": "3a107197-641e-4335-9ced-86b6ab437ae9",
-      "ip": "180.242.234.242"
+      "ip": "180.242.215.4"
     },
     {
       "discord_id": "805999330300788747",
