@@ -740,7 +740,7 @@
     },
     {
       "discord_id": "986083810124894259",
-      "total_execution": 19,
+      "total_execution": 20,
       "total_account": 3,
       "latest_execution_account": "wortel1992",
       "total_device": 1,
@@ -794,10 +794,10 @@
     },
     {
       "discord_id": "1137377890409906317",
-      "total_execution": 17,
+      "total_execution": 18,
       "total_account": 1,
       "latest_execution_account": "kiyourboyy",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "4ca2c81b-f718-42c1-819f-4e42830fd5ce",
       "ip": "114.10.101.38"
     },
