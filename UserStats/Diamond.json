@@ -1613,12 +1613,12 @@
     },
     {
       "discord_id": "1149526845629415457",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "baktio",
-      "total_device": 4,
+      "total_device": 5,
       "latest_hwid": "3d450ae9-d681-44b6-9aa9-fc6d3ff7a0cf",
-      "ip": "116.206.28.17"
+      "ip": "116.206.28.9"
     },
     {
       "discord_id": "1161584953411252316",
