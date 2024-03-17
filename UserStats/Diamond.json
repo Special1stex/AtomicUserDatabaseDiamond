@@ -1325,10 +1325,10 @@
     },
     {
       "discord_id": "584804262366806033",
-      "total_execution": 9,
+      "total_execution": 10,
       "total_account": 1,
       "latest_execution_account": "ynthn",
-      "total_device": 2,
+      "total_device": 1,
       "latest_hwid": "a1ec683c-83e2-4b08-ac39-0d90f2c00291",
       "ip": "180.254.78.77"
     },
