@@ -524,12 +524,12 @@
     },
     {
       "discord_id": "1033421227840241714",
-      "total_execution": 1,
+      "total_execution": 2,
       "total_account": 1,
       "latest_execution_account": "Zexgts",
-      "total_device": 1,
-      "latest_hwid": "35259484-b8f6-4664-b5d9-9b30cfb2bea1",
-      "ip": "180.252.91.31"
+      "total_device": 2,
+      "latest_hwid": "848684eb-a036-4e26-9e45-c78dbc17a726",
+      "ip": "180.252.85.175"
     },
     {
       "discord_id": "809726807132602368",
