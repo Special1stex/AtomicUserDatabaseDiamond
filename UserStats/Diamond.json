@@ -1808,6 +1808,15 @@
       "total_device": 1,
       "latest_hwid": "9be53e57-dcc7-4cc8-96a9-94153fb08982",
       "ip": "104.28.204.162"
+    },
+    {
+      "discord_id": "304184587888885761",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "HeroSniperPro",
+      "total_device": 1,
+      "latest_hwid": "43919eac-ab7d-4b1a-b9cb-1cefb3e3b456",
+      "ip": "103.136.58.97"
     }
   ]
 }
