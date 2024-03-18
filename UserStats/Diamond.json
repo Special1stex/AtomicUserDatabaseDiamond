@@ -1763,6 +1763,15 @@
       "total_device": 1,
       "latest_hwid": "1f384685-9da5-40d1-9987-06103e60e9cf",
       "ip": "36.71.83.30"
+    },
+    {
+      "discord_id": "886108099524591677",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "CelanaKotor",
+      "total_device": 1,
+      "latest_hwid": "2acf8bca-d55e-42fb-bc3f-3166965ab106",
+      "ip": "103.179.248.200"
     }
   ]
 }
