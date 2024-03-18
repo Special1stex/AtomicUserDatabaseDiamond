@@ -677,12 +677,12 @@
     },
     {
       "discord_id": "1004795188679544932",
-      "total_execution": 23,
+      "total_execution": 24,
       "total_account": 1,
       "latest_execution_account": "zuii_senvai",
-      "total_device": 1,
+      "total_device": 2,
       "latest_hwid": "43632333-295a-4f6d-ba65-a6e51da33427",
-      "ip": "125.163.54.182"
+      "ip": "125.163.23.221"
     },
     {
       "discord_id": "995276932008648734",
