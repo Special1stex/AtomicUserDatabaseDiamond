@@ -497,12 +497,12 @@
     },
     {
       "discord_id": "870548024013758576",
-      "total_execution": 3,
+      "total_execution": 4,
       "total_account": 1,
       "latest_execution_account": "kirakiraki_rakiii",
-      "total_device": 1,
-      "latest_hwid": "0ef99f2d-9a44-4764-b868-92127114707e",
-      "ip": "36.70.93.41"
+      "total_device": 2,
+      "latest_hwid": "64f822a2-3e2f-47c4-abde-3cf36a5ec59b",
+      "ip": "180.243.4.100"
     },
     {
       "discord_id": "1215220824705863700",
