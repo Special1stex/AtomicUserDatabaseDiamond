@@ -1799,6 +1799,15 @@
       "total_device": 1,
       "latest_hwid": "ebf43bd4-bff1-4bc5-b60b-e788a5e84db9",
       "ip": "111.94.134.235"
+    },
+    {
+      "discord_id": "1137713067149500479",
+      "total_execution": 1,
+      "total_account": 1,
+      "latest_execution_account": "YashaxAltra",
+      "total_device": 1,
+      "latest_hwid": "9be53e57-dcc7-4cc8-96a9-94153fb08982",
+      "ip": "104.28.204.162"
     }
   ]
 }
